@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"wop38797571": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
